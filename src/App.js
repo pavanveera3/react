@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Amplifyxaaaaaaaaaa  
+          Learn AmplifyxaaaaaaaaaaRamya  
         </a>
       </header>
     </div>
